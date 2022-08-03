@@ -29639,8 +29639,8 @@
 <word ref='Leuven|0032-002|1310|16' id='16' form='καὶ' lemma='καί' postag='c--------' relation='COORD' head='18' sem=''/>
 <word ref='Leuven|0032-002|1310|17' id='17' form='ἀκρατεῖς' lemma='ἀκρατής' postag='a-p---ma-' relation='OBJ_CO' head='16' sem=''/>
 <word ref='Leuven|0032-002|1310|18' id='18' form='εἶναι' lemma='εἰμί' postag='v--pna---' relation='OBJ' head='19' sem=''/>
-<word ref='Leuven|0032-002|1310|19' id='19' form='νομίζοι' lemma='εἰμί' postag='v--pna---' relation='OBJ' head='3' sem=''/>
-<word ref='Leuven|0032-002|1310|20' id='20' form=',' lemma='νομίζω' postag='v3spoa---' relation='OBJ' head='3' sem=''/>
+<word ref='Leuven|0032-002|1310|19' id='19' form='νομίζοι' lemma='νομίζω' postag='v--pna---' relation='OBJ' head='3' sem=''/>
+<word ref='Leuven|0032-002|1310|20' id='20' form=',' lemma=',' postag='v3spoa---' relation='OBJ' head='3' sem=''/>
 <word ref='Leuven|0032-002|1310|21' id='21' form='οὐδέν' lemma='οὐδείς' postag='p-s---na-' relation='AuxZ' head='23' sem=''/>
 <word ref='Leuven|0032-002|1310|22' id='22' form='γε' lemma='γε' postag='d--------' relation='AuxZ' head='21' sem=''/>
 <word ref='Leuven|0032-002|1310|23' id='23' form='μᾶλλον' lemma='γε' postag='d--------' relation='AuxZ' head='34' sem=''/>
@@ -29797,7 +29797,7 @@
 <word ref='Leuven|0032-002|1317|15' id='15' form='δῆλον' lemma='δῆλος' postag='a-s---na-' relation='PNOM' head='16' sem=''/>
 <word ref='Leuven|0032-002|1317|16' id='16' form='εἶναι' lemma='εἰμί' postag='v--pna---' relation='OBJ' head='30' sem=''/>
 <word ref='Leuven|0032-002|1317|17' id='17' form='ὅτι' lemma='ὅτι2' postag='c--------' relation='AuxC' head='16' sem=''/>
-<word ref='Leuven|0032-002|1317|18' id='18' form='καὶ' lemma='εἰμί' postag='v--pna---' relation='OBJ' head='30' sem=''/>
+<word ref='Leuven|0032-002|1317|18' id='18' form='καὶ' lemma='καί' postag='c--------' relation='COORD' head='20' sem=''/>
 <word ref='Leuven|0032-002|1317|19' id='19' form='δικαιοσύνη' lemma='δικαιοσύνη' postag='n-s---fn-' relation='SBJ_CO' head='20' sem=''/>
 <word ref='Leuven|0032-002|1317|20' id='20' form='καὶ' lemma='καί' postag='c--------' relation='COORD' head='26' sem=''/>
 <word ref='Leuven|0032-002|1317|21' id='21' form='ἡ' lemma='ὁ' postag='l-s---fn-' relation='ATR' head='24' sem=''/>
