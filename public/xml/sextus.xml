@@ -6874,7 +6874,7 @@
 <sentence id='261' document_id='0544-002' Author='Sextus Empiricus' subdoc='1,96' corrupt=''>
 <word ref='Leuven|0544-002|261|1' id='1' form='τάξει' lemma='τάξις' postag='n-s---fd-' relation='ADV' head='3' gloss='' sem=''/>
 <word ref='Leuven|0544-002|261|2' id='2' form='δὲ' lemma='δέ' postag='d--------' relation='AuxY' head='3' gloss='' sem=''/>
-<word ref='Leuven|0544-002|261|3' id='3' form='ἀρκτέον' lemma='ἄρχω' postag='v-s-g-nn-' relation='PNOM' head='8' gloss='' sem=''/>
+<word ref='Leuven|0544-002|261|3' id='3' form='ἀρκτέον' lemma='ἀρκτέος' postag='v-s-g-nn-' relation='PNOM' head='8' gloss='' sem=''/>
 <word ref='Leuven|0544-002|261|4' id='4' form='ἀπὸ' lemma='ἀπό' postag='r--------' relation='AuxP' head='3' gloss='' sem=''/>
 <word ref='Leuven|0544-002|261|5' id='5' form='τοῦ' lemma='ὁ' postag='l-s---ng-' relation='ATR' head='6' gloss='' sem=''/>
 <word ref='Leuven|0544-002|261|6' id='6' form='πρώτου' lemma='πρότερος' postag='a-s---ng-' relation='ADV' head='4' gloss='' sem=''/>
